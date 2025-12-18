@@ -35,4 +35,4 @@
 3. Запустите программу командой:
 
 ```bash
-python main.py
+combsort-quicksort.py
